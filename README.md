@@ -121,22 +121,6 @@ See [`db.sql`](./db.sql) for full schema and sample data.
 - `POST /api/submit` — Submit answers, returns score
 - `GET /api/report` — Get score distribution
 
----
-
-## Thought Process & Design
-
-- **Separation of concerns:** Backend and frontend are fully decoupled.
-- **Modular code:** Each route/component has a single responsibility.
-- **Scalable:** Easy to add more questions, endpoints, or features.
-- **Environment variables:** No hardcoded URLs; easy to deploy anywhere.
-- **Testing:** Automated tests ensure reliability.
-- **UI/UX:** Modern, accessible, and responsive.
-
----
-
-## Online Demo
-
-> _Deploy your backend and frontend, then add your links here!_
 
 ---
 
