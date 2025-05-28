@@ -98,16 +98,7 @@ cd frontend
 npm test
 ```
 
----
-
-## Deployment
-
-- **Backend:** Deploy to [Render](https://render.com/) or [Railway](https://railway.app/)
-- **Frontend:** Deploy to [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/)
-
-Update your `.env` in frontend to point to your deployed backend API.
-
----
+----
 
 ## SQL Schema
 
